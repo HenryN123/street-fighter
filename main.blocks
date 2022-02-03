@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"gL1b^~{J;Dc.f|vNoZpM"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="#rO]vM1!.T!C6D{U+uKq"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"gL1b^~{J;Dc.f|vNoZpM"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="#rO]vM1!.T!C6D{U+uKq"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesetvel" id="aie,x`xz|1wMDfzR.Hwi"><value name="sprite"><block type="variables_get" id="dCImq.!WKcTq1`zmzpBE"><field name="VAR" id="C5]y@!DX#w}(XtFl0;57">mySprite</field></block></value><value name="vx"><shadow type="spriteSpeedPicker" id="S7O)/QvPTe*z},];+VL3"><field name="speed">50</field></shadow></value><value name="vy"><shadow type="spriteSpeedPicker" id=":e5}~SL/]lxmnsH_/Y-Q"><field name="speed">50</field></shadow></value></block></next></block></statement></block></xml>
